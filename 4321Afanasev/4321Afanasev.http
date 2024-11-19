@@ -1,0 +1,6 @@
+@_4321Afanasev_HostAddress = http://localhost:5069
+
+GET {{_4321Afanasev_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
