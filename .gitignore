@@ -1,4 +1,7 @@
 # Игнорировать папку Visual Studio
 .vs/
 
+obj/
+bin/
+*.cache
 
