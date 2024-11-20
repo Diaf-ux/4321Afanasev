@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\database\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\database\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\configurations\\disciplineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\configurations\\disciplineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\configurations\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\configurations\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\database\\helpers\\columntype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\database\\helpers\\columntype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,41 +66,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "4321Afanasev\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAswCoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T22:48:44.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\WeatherForecast.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\WeatherForecast.cs",
-              "RelativeToolTip": "4321Afanasev\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T22:48:32.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Program.cs",
               "RelativeDocumentMoniker": "4321Afanasev\\Program.cs",
               "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Program.cs",
               "RelativeToolTip": "4321Afanasev\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T22:44:14.32Z",
+              "WhenOpened": "2024-11-20T00:16:56.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "4321Afanasev\\appsettings.Development.json",
+              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\appsettings.Development.json",
+              "RelativeToolTip": "4321Afanasev\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T23:27:52.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisciplineConfiguration.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Configurations\\DisciplineConfiguration.cs",
+              "RelativeDocumentMoniker": "4321Afanasev\\Configurations\\DisciplineConfiguration.cs",
+              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Configurations\\DisciplineConfiguration.cs",
+              "RelativeToolTip": "4321Afanasev\\Configurations\\DisciplineConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:04:29.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "4321Afanasev\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "4321Afanasev\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:03:59.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherConfiguration.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Configurations\\TeacherConfiguration.cs",
+              "RelativeDocumentMoniker": "4321Afanasev\\Configurations\\TeacherConfiguration.cs",
+              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Configurations\\TeacherConfiguration.cs",
+              "RelativeToolTip": "4321Afanasev\\Configurations\\TeacherConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:02:19.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColumnType.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\DataBase\\Helpers\\ColumnType.cs",
+              "RelativeDocumentMoniker": "4321Afanasev\\DataBase\\Helpers\\ColumnType.cs",
+              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\DataBase\\Helpers\\ColumnType.cs",
+              "RelativeToolTip": "4321Afanasev\\DataBase\\Helpers\\ColumnType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:58:42.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "4321Afanasev\\Models\\Department.cs",
+              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Department.cs",
+              "RelativeToolTip": "4321Afanasev\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:37:08.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniversityDbContext.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\DataBase\\UniversityDbContext.cs",
+              "RelativeDocumentMoniker": "4321Afanasev\\DataBase\\UniversityDbContext.cs",
+              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\DataBase\\UniversityDbContext.cs",
+              "RelativeToolTip": "4321Afanasev\\DataBase\\UniversityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:24:53.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "4321Afanasev\\Models\\Teacher.cs",
+              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Teacher.cs",
+              "RelativeToolTip": "4321Afanasev\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:37:36.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Discipline.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Discipline.cs",
+              "RelativeDocumentMoniker": "4321Afanasev\\Models\\Discipline.cs",
+              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Discipline.cs",
+              "RelativeToolTip": "4321Afanasev\\Models\\Discipline.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:38:08.991Z",
               "EditorCaption": ""
             }
           ]

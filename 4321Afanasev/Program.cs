@@ -1,16 +1,21 @@
 using NLog;
 using NLog.Web;
+using Microsoft.EntityFrameworkCore;
+using _4321Afanasev.Database;
 
 var builder = WebApplication.CreateBuilder(args);
 var logger = LogManager.Setup().LoadConfigurationFromAppSettings().GetCurrentClassLogger();
 
 try
 {
-
     builder.Logging.ClearProviders();
     builder.Host.UseNLog();
-    // Add services to the container.
 
+    // Добавляем регистрацию DbContext
+    builder.Services.AddDbContext<UniversityDbContext>(options =>
+        options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+    // Add services to the container.
     builder.Services.AddControllers();
     // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
     builder.Services.AddEndpointsApiExplorer();
@@ -31,9 +36,10 @@ try
 
     app.Run();
 }
-catch(Exception ex)
+catch (Exception ex)
 {
-    logger.Error(ex, "stopped pprogram cause of exception");
+    logger.Error(ex, "Stopped program because of an exception");
+    throw;
 }
 finally
 {
