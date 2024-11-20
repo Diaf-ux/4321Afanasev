@@ -2,6 +2,8 @@ using NLog;
 using NLog.Web;
 using Microsoft.EntityFrameworkCore;
 using _4321Afanasev.Database;
+using _4321Afanasev.Interfaces;
+using _4321Afanasev.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 var logger = LogManager.Setup().LoadConfigurationFromAppSettings().GetCurrentClassLogger();
@@ -14,6 +16,9 @@ try
     // Добавляем регистрацию DbContext
     builder.Services.AddDbContext<UniversityDbContext>(options =>
         options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+    // Регистрируем сервис ITeacherService -> TeacherService
+    builder.Services.AddScoped<ITeacherService, TeacherService>();
 
     // Add services to the container.
     builder.Services.AddControllers();
