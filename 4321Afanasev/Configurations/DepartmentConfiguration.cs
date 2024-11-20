@@ -22,9 +22,10 @@ namespace _4321Afanasev.Database.Configurations
 
             // Связь с заведующим кафедрой
             builder.HasOne(d => d.Head) // Связь с одним преподавателем
-                   .WithMany() // Нет коллекции со стороны преподавателя
-                   .HasForeignKey(d => d.HeadId) // Внешний ключ - HeadId
+                   .WithOne() // Указываем, что связь один к одному
+                   .HasForeignKey<Department>(d => d.HeadId) // Внешний ключ - HeadId
                    .OnDelete(DeleteBehavior.Restrict); // Заведующего нельзя удалить, если он привязан к кафедре
+
 
             // Связь кафедры с преподавателями
             builder.HasMany(d => d.Teachers) // У кафедры много преподавателей

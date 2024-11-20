@@ -24,7 +24,7 @@ namespace _4321Afanasev.Services
                 query = query.Where(t => t.Department.Name == filter.DepartmentName);
             }
 
-            // Фильтр по степени
+            // Фильтр по академической степени
             if (!string.IsNullOrEmpty(filter.AcademicDegree))
             {
                 query = query.Where(t => t.AcademicDegree == filter.AcademicDegree);

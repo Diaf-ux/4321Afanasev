@@ -30,12 +30,6 @@ namespace _4321Afanasev.Database.Configurations
                    .WithMany(d => d.Teachers) // У кафедры много преподавателей
                    .HasForeignKey(t => t.DepartmentId)
                    .OnDelete(DeleteBehavior.Cascade); // Удаление кафедры удаляет преподавателей
-
-            // Связь с дисциплинами
-            builder.HasMany(t => t.Disciplines) // У преподавателя много дисциплин
-                   .WithOne(d => d.Teacher) // У дисциплины один преподаватель
-                   .HasForeignKey(d => d.TeacherId)
-                   .OnDelete(DeleteBehavior.Cascade); // Удаление преподавателя удаляет дисциплины
         }
     }
 }

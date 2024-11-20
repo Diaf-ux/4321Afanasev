@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using _4321Afanasev.Database;
 using _4321Afanasev.Interfaces;
 using _4321Afanasev.Services;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 var logger = LogManager.Setup().LoadConfigurationFromAppSettings().GetCurrentClassLogger();
@@ -19,6 +20,14 @@ try
 
     // Регистрируем сервис ITeacherService -> TeacherService
     builder.Services.AddScoped<ITeacherService, TeacherService>();
+    builder.Services.AddScoped<IDisciplineService, DisciplineService>();
+    builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
+    });
+
+
 
     // Add services to the container.
     builder.Services.AddControllers();
