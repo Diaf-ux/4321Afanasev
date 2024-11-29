@@ -1,7 +1,9 @@
-﻿using _4321Afanasev.Database;
+﻿using _4321Afanasev.Models;
 using _4321Afanasev.Filters;
 using _4321Afanasev.Interfaces;
-using _4321Afanasev.Models;
+using Microsoft.EntityFrameworkCore;
+using System.Linq;
+using _4321Afanasev.Database;
 
 namespace _4321Afanasev.Services
 {
@@ -18,25 +20,24 @@ namespace _4321Afanasev.Services
         {
             var query = _context.Teachers.AsQueryable();
 
-            // Фильтр по кафедре
-            if (!string.IsNullOrEmpty(filter.DepartmentName))
+            // Выводим все данные до фильтрации
+            Console.WriteLine("Teachers in the database before filter:");
+            foreach (var teacher in query)
             {
-                query = query.Where(t => t.Department.Name == filter.DepartmentName);
+                Console.WriteLine($"Name: {teacher.FirstName} {teacher.LastName}");
             }
 
-            // Фильтр по академической степени
-            if (!string.IsNullOrEmpty(filter.AcademicDegree))
+            // Фильтрация по имени
+            if (!string.IsNullOrEmpty(filter.FirstName))
             {
-                query = query.Where(t => t.AcademicDegree == filter.AcademicDegree);
+                query = query.Where(t => t.FirstName == filter.FirstName);
             }
 
-            // Фильтр по должности
-            if (!string.IsNullOrEmpty(filter.Position))
-            {
-                query = query.Where(t => t.Position == filter.Position);
-            }
+            // Выводим количество преподавателей после фильтрации
+            Console.WriteLine($"Teachers after filter: {query.Count()}");
 
-            return query.ToList();
+            return query.Include(t => t.Department).Include(t => t.Disciplines).ToList();
         }
     }
+
 }

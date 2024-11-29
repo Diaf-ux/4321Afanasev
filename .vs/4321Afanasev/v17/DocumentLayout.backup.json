@@ -1,66 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\",
+  "WorkspaceRootPath": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CD9E22D-49B2-4547-88C1-7CE9A0BA9D7E}|4321Afanasev.Tests.My\\4321Afanasev.Tests.My.csproj|e:\\7th semester\\\u044F\u0447\u0441\u043C\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev.tests.my\\disciplineservicetestsintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD9E22D-49B2-4547-88C1-7CE9A0BA9D7E}|4321Afanasev.Tests.My\\4321Afanasev.Tests.My.csproj|solutionrelative:4321afanasev.tests.my\\disciplineservicetestsintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CD9E22D-49B2-4547-88C1-7CE9A0BA9D7E}|4321Afanasev.Tests.My\\4321Afanasev.Tests.My.csproj|e:\\7th semester\\\u044F\u0447\u0441\u043C\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev.tests.my\\teacherscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD9E22D-49B2-4547-88C1-7CE9A0BA9D7E}|4321Afanasev.Tests.My\\4321Afanasev.Tests.My.csproj|solutionrelative:4321afanasev.tests.my\\teacherscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\services\\disciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u0447\u0441\u043C\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\services\\disciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\services\\disciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\interfaces\\idisciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\interfaces\\idisciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\controllers\\disciplinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\controllers\\disciplinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u0447\u0441\u043C\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\configurations\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\configurations\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u0447\u0441\u043C\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\configurations\\disciplineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\configurations\\disciplineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\database\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\database\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u0447\u0441\u043C\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u0447\u0441\u043C\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u0447\u0441\u043C\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|e:\\7th semester\\\u044F\u0447\u0441\u043C\\\u044F\u043B\u0435\u0433\u0435\u043D\u0434\u0430\\4321afanasev\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FCAE31-E812-4298-B1E1-507FE5DB4411}|4321Afanasev\\4321Afanasev.csproj|solutionrelative:4321afanasev\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,197 +63,116 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TeachersController.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Controllers\\TeachersController.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\Controllers\\TeachersController.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Controllers\\TeachersController.cs",
-              "RelativeToolTip": "4321Afanasev\\Controllers\\TeachersController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBQAAAAJAAAAAAAAAA==",
+              "Title": "DisciplineService.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Services\\DisciplineService.cs",
+              "RelativeDocumentMoniker": "4321Afanasev\\Services\\DisciplineService.cs",
+              "ToolTip": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Services\\DisciplineService.cs",
+              "RelativeToolTip": "4321Afanasev\\Services\\DisciplineService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T06:00:54.614Z",
+              "WhenOpened": "2024-11-29T10:25:09.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "4321Afanasev\\Models\\Department.cs",
+              "ToolTip": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Department.cs",
+              "RelativeToolTip": "4321Afanasev\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:23:03.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "4321Afanasev\\Models\\Teacher.cs",
+              "ToolTip": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Teacher.cs",
+              "RelativeToolTip": "4321Afanasev\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:07:53.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Discipline.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Discipline.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Discipline.cs",
               "RelativeDocumentMoniker": "4321Afanasev\\Models\\Discipline.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Discipline.cs",
+              "ToolTip": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Discipline.cs",
               "RelativeToolTip": "4321Afanasev\\Models\\Discipline.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T03:22:01.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IDisciplineService.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Interfaces\\IDisciplineService.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\Interfaces\\IDisciplineService.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Interfaces\\IDisciplineService.cs",
-              "RelativeToolTip": "4321Afanasev\\Interfaces\\IDisciplineService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T07:44:00.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Teacher.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\Models\\Teacher.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Teacher.cs",
-              "RelativeToolTip": "4321Afanasev\\Models\\Teacher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T08:11:07.399Z",
+              "WhenOpened": "2024-11-29T10:00:44.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ITeacherService.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Interfaces\\ITeacherService.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\Interfaces\\ITeacherService.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Interfaces\\ITeacherService.cs",
-              "RelativeToolTip": "4321Afanasev\\Interfaces\\ITeacherService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "TeachersControllerTests.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev.Tests.My\\TeachersControllerTests.cs",
+              "RelativeDocumentMoniker": "4321Afanasev.Tests.My\\TeachersControllerTests.cs",
+              "ToolTip": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev.Tests.My\\TeachersControllerTests.cs",
+              "RelativeToolTip": "4321Afanasev.Tests.My\\TeachersControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T06:24:03.684Z",
+              "WhenOpened": "2024-11-29T08:26:15.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TeacherService.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Services\\TeacherService.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\Services\\TeacherService.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Services\\TeacherService.cs",
-              "RelativeToolTip": "4321Afanasev\\Services\\TeacherService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAArwCoAAAAAAAAAAAAAAA==",
+              "Title": "DisciplineServiceTestsIntegrationTests.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev.Tests.My\\DisciplineServiceTestsIntegrationTests.cs",
+              "RelativeDocumentMoniker": "4321Afanasev.Tests.My\\DisciplineServiceTestsIntegrationTests.cs",
+              "ToolTip": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev.Tests.My\\DisciplineServiceTestsIntegrationTests.cs",
+              "RelativeToolTip": "4321Afanasev.Tests.My\\DisciplineServiceTestsIntegrationTests.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T06:24:39.839Z",
+              "WhenOpened": "2024-11-29T08:26:32.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DisciplineService.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Services\\DisciplineService.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\Services\\DisciplineService.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Services\\DisciplineService.cs",
-              "RelativeToolTip": "4321Afanasev\\Services\\DisciplineService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "4321Afanasev\\Services\\TeacherService.cs",
+              "ToolTip": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Services\\TeacherService.cs",
+              "RelativeToolTip": "4321Afanasev\\Services\\TeacherService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T07:44:42.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T08:26:50.39Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Program.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Program.cs",
               "RelativeDocumentMoniker": "4321Afanasev\\Program.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Program.cs",
+              "ToolTip": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Program.cs",
               "RelativeToolTip": "4321Afanasev\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAACcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T02:53:01.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T10:07:23.205Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DisciplineController.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Controllers\\DisciplineController.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\Controllers\\DisciplineController.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Controllers\\DisciplineController.cs",
-              "RelativeToolTip": "4321Afanasev\\Controllers\\DisciplineController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAArwCIAAAAsAAAAAAAAAA==",
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "4321Afanasev\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "E:\\7th semester\\\u044F\u0447\u0441\u043C\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "4321Afanasev\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAIA9wEkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T07:45:31.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DepartmentConfiguration.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Configurations\\DepartmentConfiguration.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\Configurations\\DepartmentConfiguration.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Configurations\\DepartmentConfiguration.cs",
-              "RelativeToolTip": "4321Afanasev\\Configurations\\DepartmentConfiguration.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T06:09:10.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TeacherConfiguration.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Configurations\\TeacherConfiguration.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\Configurations\\TeacherConfiguration.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Configurations\\TeacherConfiguration.cs",
-              "RelativeToolTip": "4321Afanasev\\Configurations\\TeacherConfiguration.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwB8AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T05:51:10.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DisciplineConfiguration.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Configurations\\DisciplineConfiguration.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\Configurations\\DisciplineConfiguration.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Configurations\\DisciplineConfiguration.cs",
-              "RelativeToolTip": "4321Afanasev\\Configurations\\DisciplineConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T05:52:52.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ResponseModel.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\ResponseModel.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\Models\\ResponseModel.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\ResponseModel.cs",
-              "RelativeToolTip": "4321Afanasev\\Models\\ResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T04:27:27.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UniversityDbContext.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\DataBase\\UniversityDbContext.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\DataBase\\UniversityDbContext.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\DataBase\\UniversityDbContext.cs",
-              "RelativeToolTip": "4321Afanasev\\DataBase\\UniversityDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T06:57:13.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Department.cs",
-              "DocumentMoniker": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "4321Afanasev\\Models\\Department.cs",
-              "ToolTip": "E:\\7th semester\\\u042F\u041B\u0435\u0433\u0435\u043D\u0434\u0430\\4321Afanasev\\Models\\Department.cs",
-              "RelativeToolTip": "4321Afanasev\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T04:27:07.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T10:11:13.657Z"
             }
           ]
         }

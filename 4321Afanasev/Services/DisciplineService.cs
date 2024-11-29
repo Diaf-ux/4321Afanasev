@@ -21,6 +21,8 @@ namespace _4321Afanasev.Services
             if (teacherId.HasValue)
                 query = query.Where(d => d.TeacherId == teacherId.Value);
 
+
+
             if (minWorkload.HasValue)
                 query = query.Where(d => d.WorkloadHours >= minWorkload.Value);
 
@@ -29,6 +31,23 @@ namespace _4321Afanasev.Services
 
             return query.Include(d => d.Teacher).ToList();
         }
+
+        // Новый метод для получения преподавателей по имени и фамилии
+        public IEnumerable<Teacher> GetTeachersByName(string? firstName, string? lastName)
+        {
+            var query = _context.Teachers.AsQueryable();
+
+            // Фильтрация по имени
+            if (!string.IsNullOrEmpty(firstName))
+                query = query.Where(t => t.FirstName == firstName);
+
+            // Фильтрация по фамилии
+            if (!string.IsNullOrEmpty(lastName))
+                query = query.Where(t => t.LastName == lastName);
+
+            return query.Include(t => t.Department).Include(t => t.Disciplines).ToList();
+        }
+
 
         public void AddDiscipline(Discipline discipline)
         {
@@ -56,5 +75,15 @@ namespace _4321Afanasev.Services
             _context.Disciplines.Remove(discipline);
             _context.SaveChanges();
         }
+
+        public async Task<IEnumerable<Discipline>> GetDisciplinesByDepartmentAsync(int departmentId)
+        {
+            return await _context.Disciplines
+                .Where(d => d.Teacher.DepartmentId == departmentId)  // Фильтруем дисциплины по кафедре преподавателя
+                .Include(d => d.Teacher)  // Включаем данные о преподавателе
+                .ToListAsync();
+        }
+
+
     }
 }
